@@ -521,9 +521,10 @@
     }
     @media screen and (min-width:100px) and (max-width:667px) {
         .formcontainer  .sh2{
-          visibility: hidden;
+          display:none;
         }
         .formcontainer  .sh1{
+           width:200px;
            visibility: hidden;
         
         }
