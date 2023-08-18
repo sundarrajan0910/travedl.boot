@@ -330,8 +330,8 @@
 @media screen and (max-width:390px){
  .abtcontainer .hint{
      
-    margin-left: 8rem ;
-    margin-top:10rem ;
+    margin-left: 50px ;
+    margin-top:80px ;
     }
     .abtcontainer .image5{
       width: 55%;
@@ -562,7 +562,7 @@
         }
         .formcontainer i{
             position: absolute;
-            margin-right: 200px;
+/*             margin-right: 200px; */
             font-size: large;
             margin-top: 7px;
         
