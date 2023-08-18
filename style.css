@@ -524,8 +524,7 @@
           display:none;
         }
         .formcontainer  .sh1{
-           width:20px;
-           visibility: hidden;
+        display:none;
         
         }
         .formcontainer  .field{
