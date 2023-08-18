@@ -521,15 +521,15 @@
     }
     @media screen and (min-width:100px) and (max-width:667px) {
         .formcontainer  .sh2{
-            display: none;
+          visibility: hidden;
         }
         .formcontainer  .sh1{
-            display: none;
+           visibility: hidden;
         
         }
         .formcontainer  .field{
             width: 70%;
-            position: relative;
+            position: absolute;
              margin-left: 50px;
              margin-top: 90px;
              /* border: 1px solid red; */
@@ -552,7 +552,7 @@
             /* margin-bottom: 20px; */
         }
         .formcontainer  button{
-            position: relative;
+           
             padding: 5px 86px;
             margin-top: 10px;
             /* margin-left: 9px; */
