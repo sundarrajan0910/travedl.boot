@@ -529,10 +529,10 @@
         }
         .formcontainer  .field{
             width: 70%;
-            position: absolute;
+            position: relative;
              margin-left: 50px;
              margin-top: 90px;
-             /* border: 1px solid red; */
+             border: 1px solid red;
          /* padding-bottom: 40px; */
         }
         .formcontainer  .para{
@@ -540,6 +540,7 @@
             width: 80%;
             /* border: 1px solid red; */
             margin-top: 0;
+           position: relative;
         
         }
         .formcontainer  .box{
